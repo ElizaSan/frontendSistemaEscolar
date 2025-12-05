@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url_api: 'https://backendsistemaescolar.onrender.com/'
+  url_api: 'https://backendsistemaescolar.onrender.com'
 };
